@@ -14,6 +14,15 @@
 	</properties>
 
 	<dependencies>
+	
+	<!-- Linking backend Project -->
+	<dependency>
+	<groupId>tech.com</groupId>
+	<artifactId>shopingbackend</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	
+	
 		<!-- Spring Dependency -->
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
